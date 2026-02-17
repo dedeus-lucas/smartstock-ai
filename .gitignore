@@ -4,8 +4,13 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Virtual Environment
+# Virtual Environments
 venv/
+.venv/
+env/
+
+# Environment variables
+.env
 .env/
 
 # Jupyter
