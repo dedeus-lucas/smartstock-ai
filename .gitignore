@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+
+# Azure ML
+.azureml/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
