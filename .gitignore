@@ -17,6 +17,7 @@ env/
 .ipynb_checkpoints/
 
 # Model files
+model/
 *.pkl
 
 # Azure ML
